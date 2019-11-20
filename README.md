@@ -3,7 +3,7 @@
 [#grammar-execution grammar and execution] | [#variables-expressions variables and expressions] | [#arithmetic-logic arithmetic and logic] | [#strings strings] | [#regexes regexes] | [#dates-time dates and time] | [#fixed-length-arrays fixed-length arrays] | [#resizable-arrays resizable arrays] | [#tuples tuples] | [#dictionaries dictionaries] | [#functions functions] | [#execution-control execution control] | [#exceptions exceptions] | [#concurrency concurrency] | [#file-handles file handles] | [#files files] | [#file-fmt file formats] | [#directories directories] | [#processes-environment processes and environment] | [#libraries-namespaces libraries and namespaces] | [#user-defined-types user-defined types] | [#generic-types generic types] | [#objects objects] | [#inheritance-polymorphism inheritance and polymorphism] | [#reflection reflection] | [#net-web net and web] | [#unit-tests unit tests] | [#debugging-profiling debugging and profiling]
 
 ||||||||||~ [[# version]][#version-note version]||
-||~ ||~ [#cpp c++]||~ [#objective-c objective c]||~ [#java java]||~ [#c-sharp c#]||
+||~ ||~ [#cpp c++]||~ [#objective-c to be replaced by py]||~ [#java  to be replaced v]||~ [#c-sharp to be replaced b]||
 ||[[# version-used]][#version-used-note version used] _
 @<&nbsp;>@||##gray|//C++11// _
 //gcc 4.8// _
