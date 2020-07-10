@@ -1,3 +1,6 @@
+#Object-Oriented C Style Languages: C++, Objective-C, Java, C# 
+
+<!--
 [[# top]]//a side-by-side reference sheet//
 
 [#grammar-execution grammar and execution] | [#variables-expressions variables and expressions] | [#arithmetic-logic arithmetic and logic] | [#strings strings] | [#regexes regexes] | [#dates-time dates and time] | [#fixed-length-arrays fixed-length arrays] | [#resizable-arrays resizable arrays] | [#tuples tuples] | [#dictionaries dictionaries] | [#functions functions] | [#execution-control execution control] | [#exceptions exceptions] | [#concurrency concurrency] | [#file-handles file handles] | [#files files] | [#file-fmt file formats] | [#directories directories] | [#processes-environment processes and environment] | [#libraries-namespaces libraries and namespaces] | [#user-defined-types user-defined types] | [#generic-types generic types] | [#objects objects] | [#inheritance-polymorphism inheritance and polymorphism] | [#reflection reflection] | [#net-web net and web] | [#unit-tests unit tests] | [#debugging-profiling debugging and profiling]
@@ -3840,3 +3843,4 @@ open("/Library/JVM/jdk7.0/Contents/Home/jre/lib/rt.jar\0", 0x0, 0x0)		 = 4 0
 [http://standards.iso.org/ittf/PubliclyAvailableStandards/c042926_ISO_IEC_23270_2006(E).zip C# Standard: ECMA-334]
 [http://www.go-mono.com/docs/ Mono API]
 [http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx C# Programming Guide] Microsoft
+-->
