@@ -1,4 +1,18 @@
-#Object-Oriented C Style Languages: C++, Objective-C, Java, C# 
+# Object-Oriented C Style Languages: C++, Objective-C, Java, C# 
+When finished, this will become a comparison of C++ and Python.
+
+<table style="border: 1px solid #888;	border-collapse: collapse;	border-spacing: 0;	margin: 0.5em auto;">
+<tbody><tr>
+<th colspan="5"><a name="version" id="version"></a><a href="#version-note">version</a></th>
+</tr>
+<tr>
+<th></th>
+<th><a href="#cpp">c++</a></th>
+<th><a href="#objective-c">objective c  to be replaced by python</a></th>
+<th><a href="#java">java to be deleted</a></th>
+<th><a href="#c-sharp">c#  to be replaced by vb.net</a></th>
+</tr>
+</table>
 
 <!--
 [[# top]]//a side-by-side reference sheet//
