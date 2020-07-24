@@ -1,24 +1,29 @@
 # Object-Oriented C Style Languages: C++, Objective-C, Java, C# 
 When finished, this will become a comparison of C++ and Python.
 
-<table style="border: 1px solid #888;	border-collapse: collapse;	border-spacing: 0;	margin: 0.5em auto;">
+<table border=1 style="margin: 0.5em auto;">
 <tbody><tr>
 <th colspan="5"><a name="version" id="version"></a><a href="#version-note">version</a></th>
 </tr>
 <tr>
 <th></th>
-<th><a href="#cpp">c++</a></th>
-<th><a href="#objective-c">objective c  to be replaced by python</a></th>
-<th><a href="#java">java to be deleted</a></th>
-<th><a href="#c-sharp">c#  to be replaced by vb.net</a></th>
+<th>c++ </th>
+<th>objective c  to be replaced by python </th>
+<th>java to be deleted </th>
+<th>c# to be replaced by vb.net </th>
+</tr>
+<tr>
+<td>version used</td>
+<td><em>C++11</em><br>
+<em>gcc 4.8</em><br>
+<em>clang 3.5</em></td>
+<td><em>gcc 4.2</em></td>
+<td><em>java 1.7</em></td>
+<td><em>mono 2.10 (C# 4.0)</em></td>
 </tr>
 </table>
 
 <!--
-[[# top]]//a side-by-side reference sheet//
-
-[#grammar-execution grammar and execution] | [#variables-expressions variables and expressions] | [#arithmetic-logic arithmetic and logic] | [#strings strings] | [#regexes regexes] | [#dates-time dates and time] | [#fixed-length-arrays fixed-length arrays] | [#resizable-arrays resizable arrays] | [#tuples tuples] | [#dictionaries dictionaries] | [#functions functions] | [#execution-control execution control] | [#exceptions exceptions] | [#concurrency concurrency] | [#file-handles file handles] | [#files files] | [#file-fmt file formats] | [#directories directories] | [#processes-environment processes and environment] | [#libraries-namespaces libraries and namespaces] | [#user-defined-types user-defined types] | [#generic-types generic types] | [#objects objects] | [#inheritance-polymorphism inheritance and polymorphism] | [#reflection reflection] | [#net-web net and web] | [#unit-tests unit tests] | [#debugging-profiling debugging and profiling]
-
 
 ||[[# version-used]][#version-used-note version used] _
 @<&nbsp;>@||##gray|//C++11// _
